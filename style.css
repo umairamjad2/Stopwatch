@@ -55,14 +55,10 @@ button:hover {
 
       #display-time {
             font-size: 19vw;
+            text-align: center;
       }
       .button-container{
             gap: 1rem;
       }
 }
 
-@media (max-width: 800px) {
-      #display-time {
-            font-size: 150px;
-      }
-}
